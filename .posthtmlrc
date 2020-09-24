@@ -1,0 +1,189 @@
+{
+  "plugins": {
+    "posthtml-include": {
+      "root": "./src"
+    },
+    "posthtml-expressions": {
+      "root": "./src/partials",
+      "locals": {
+        "top": [],
+        "body": {
+          "page_0": [
+            {
+              "type": "text",
+              "value": "After Columbia reversed its plan to grant all undergraduates at least one semester on campus weeks before class began, students spent the rest of their summer grappling with a handful of less-than-ideal options. Many wrestled with the question of whether they should remain enrolled and risk at least a semester of classes on Zoom or take a gap year and search for work in a shaky economy."
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OYBGVMBGQBBWZDGNPEUR4E4JHU.jpeg",
+                "credit": "Kate Della Pietra"
+              }
+            },
+            {
+              "type": "text",
+              "value": "While all Columbia students dealt with the loss of in-person classes, clubs, and proximity to friends as they made their choices, an additional factor loomed large for student-athletes: the possible <a href=\"https://www.columbiaspectator.com/sports/2020/04/13/unfinished-fencing-seniors-struggle-to-find-closure-after-covid-19-erases-chance-at-second-straight-national-title/\">loss of a season.</a> For many, it came on the heels of another abbreviated or <a href=\"https://www.columbiaspectator.com/sports/2020/05/07/after-a-shattered-season-leo-pollack-stares-down-a-long-road-to-recovery/\">missed season </a>in spring 2020."
+            },
+            {
+              "type": "text",
+              "value": "Columbia’s fencing team was still stinging from its lost opportunity to defend its <a href=\"https://www.columbiaspectator.com/sports/2019/11/22/columbia-fencing-attends-championship-visit-to-white-house-amid-mixed-opinions-from-team-members/\">2019 NCAA title</a>. Though the Lions had <a href=\"https://www.columbiaspectator.com/sports/2020/03/10/vierheller-and-walker-shine-mens-epee-falters-as-columbia-fencing-qualifies-11-for-nationals/\">fallen short</a> of qualifying a full team for the 2020 NCAA Division I National Championship, there remained a chance to bring home back-to-back national rings. The spread of the coronavirus catalyzed the <a href=\"https://www.columbiaspectator.com/sports/2020/03/11/ivy-league-cancels-all-spring-sports/\">cancellation of NCAAs</a>, but at the time, nobody knew that the pandemic could cost them their next season as well."
+            },
+            {
+              "type": "text",
+              "value": "Senior Josef Cohen, one of many students who decided to take a year off from school in order to retain his final year of NCAA <a href=\"https://www.columbiaspectator.com/sports/2020/07/08/ivy-league-cancels-all-fall-sports-will-revisit-athletics-in-january-2021/\">eligibility</a>, is looking for a job in New York City. A sabre fencer for the Lions, Cohen qualified for Nationals in 2020 along with fellow senior Andrew Doddo."
+            },
+            {
+              "type": "text",
+              "value": "“I think that in terms of sports, I look to all the cancellations of big football schools in the fall as a predecessor to what’s going to happen,” Cohen said. “I think that that probably influenced a lot of our decisions.”"
+            },
+            {
+              "type": "text",
+              "value": "On Sept. 16, the Big Ten announced it would proceed with its football season, a marked reversal from its earlier position."
+            },
+            {
+              "type": "text",
+              "value": "Fencers looking to preserve a year of eligibility can take a voluntary leave of absence. The trade-off, which holds true for non-athletes as well, is the loss of guaranteed Columbia housing when they return as well as the postponement of other opportunities."
+            },
+            {
+              "type": "text",
+              "value": "Though Doddo has one semester of athletic eligibility remaining, deferring his final semester means passing up post-graduation opportunities now. He will finish his studies this fall."
+            },
+            {
+              "type": "text",
+              "value": "“I was kind of hoping that sports would resume in the spring, but again, with the Ivy League being a separate entity, I don’t foresee that happening, so I think I’m just going to hurry up and get this degree and figure it out,” Doddo said. “I feel kind of guilty receiving job offers and having to put them on hold.”"
+            },
+            {
+              "type": "text",
+              "value": "Cohen also faced pressure in his home state of Rhode Island as his high school friends—predominantly non-athletes—headed back to college in the fall and looked for professional opportunities after their graduation. Ultimately, Cohen considered the effects this decision would have on him as both a student and an athlete. Academically, he had not enjoyed online school in the spring. But he had also been selected as a captain, a role he stepped away from once he chose to take a year off."
+            },
+            {
+              "type": "text",
+              "value": "Citing the myriad opportunities fencing has provided for him—from traveling the world at a young age to devoting himself to a sport—Cohen said that while pausing school might not be a normal step for most students, it was the right choice for him."
+            },
+            {
+              "type": "text",
+              "value": "“[My friends are] going to be graduating from college, heading into the workforce hopefully, and that was one of the biggest sources of pressure,” Cohen explained. “I’m taking this huge step back in my life’s development, and I kind of had to think about it and look back on my life and be like, what normal experience? Because fencing has brought so many awesome things into my life.”"
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WYWJIE36PNGHLLPJM6EOQ4YKYQ.jpg",
+                "credit": "Sarah-Jayne Austin"
+              }
+            },
+            {
+              "type": "text",
+              "value": "According to head coach <a href=\"https://www.columbiaspectator.com/sports/2020/02/27/everyone-matters-how-aufrichtig-built-a-fencing-dynasty-centered-on-teamwork/\">Michael Aufrichtig</a>, around a quarter of the team elected to take time off at the start of the fall term, which will create challenges for future roster management. Aufrichtig said this will affect playing time for the next two years as fewer athletes will have the chance to compete at the regional competition given the unexpected retention of an extra 25 percent of the current roster."
+            },
+            {
+              "type": "text",
+              "value": "Aufrichtig said that if a global pandemic had occurred during his fencing career at New York University, he would have taken the fall off and reevaluated in the spring."
+            },
+            {
+              "type": "text",
+              "value": "However, not all fencers were able to take a single semester off. Senior sabre fencer Maria Chart was informed that as a student in the School of Engineering and Applied Science, her options were limited to either taking an entire year off or returning to classes in the fall. She considered getting a yearlong internship, but when she found that nobody was hiring, she elected to finish her studies this year."
+            },
+            {
+              "type": "text",
+              "value": "Chart’s tenure with the Lions is an illustrious one: During her time with the team, Columbia has taken home three Ivy League crowns and an NCAA title. Now, she may have no senior season at all."
+            },
+            {
+              "type": "text",
+              "value": "When Chart made the decision to move back to the city from her home in England, there was still potential for some in-person fencing training. She still hopes that this preparation will be put to good use in the spring."
+            },
+            {
+              "type": "text",
+              "value": "“I would love to believe that we’re going to have a season. I’m not sure that we will,” she said. “I think I’ve been so disappointed by so many things over the past six months that I’m trying not to get my hopes up.”"
+            },
+            {
+              "type": "text",
+              "value": "On the other hand, some students’ majors afforded them more flexibility when it came to deciding whether to take time off. Junior foilist Natalie Minarik, a political science major, said she would take a semester off and reevaluate in a few months since she no longer needs to worry about taking classes in a sequence."
+            },
+            {
+              "type": "text",
+              "value": "Two épée fencers, senior Julian Maldonado and sophomore Alan Temiryaev, both considered personal development as a factor in their decisions, though it led each down different paths."
+            },
+            {
+              "type": "text",
+              "value": "Temiryaev, who will continue the academic year uninterrupted, said his first-year experience played a part in his thought process, believing that at this time he needed to focus on working toward a career rather than base his choice on extracurriculars. He also brought up various unknown variables: the future trajectory of coronavirus cases, the number of athletes willing to compete should there be a season, and the likelihood of students being invited back on campus. Although it is difficult to make a prediction, Temiryaev said, he is optimistic."
+            },
+            {
+              "type": "text",
+              "value": "While Temiryaev takes classes online, Maldonado will volunteer for a humanitarian aid organization called No More Deaths and get his EMT certification."
+            },
+            {
+              "type": "text",
+              "value": "“One of the major things that played into my decision was the rate of personal development that I would be going through if I were to take a gap year and then go back to school,” Maldonado said. “I feel like at this point in our early twenties, college-age, we’re kind of figuring out who we are and what we want to do at a really fast rate.”"
+            },
+            {
+              "type": "text",
+              "value": "Like Maldonado, Chart is a senior. But as she chooses to press forward with her studies at Columbia, she may cede her last chance to compete as a Lion if winter and spring sports are canceled as the University does not allow graduate students to compete in varsity athletics. While she could fence for another institution outside of the Ivy League as a fifth-year or graduate athlete, Chart said she feels lucky to have experienced the last three years with the Columbia fencing team."
+            },
+            {
+              "type": "text",
+              "value": "“Even though I would love to have a senior year with the opportunity to do all that again, I feel like I’ve had such a good experience over the last three years [winning three Ivy titles and the NCAAs],” Chart said. “I think that’s more than most student-athletes do during their time in college, so I definitely think it could be much worse.”"
+            },
+            {
+              "type": "image",
+              "value": {
+                "width": "auto",
+                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IGNWNA4XBZH3BHQY3NGW6YUFOY.jpg",
+                "credit": "Courtesy of"
+              }
+            },
+            {
+              "type": "text",
+              "value": "Doddo adopted a similar attitude, observing “that really big one from last year”—the Light Blue’s most recent national title—“has a nice spot in my room.”"
+            },
+            {
+              "type": "text",
+              "value": "Some fencers continue to train at private clubs. Fencing is, after all, an individual sport. But when it is once again safe to pack into Columbia’s fencing room, the consensus is that the athletes will be ready. After all, the Lions are still the reigning national champions."
+            },
+            {
+              "type": "text",
+              "value": "“We’re all kind of accustomed to going off on our own and doing our own thing and then coming back together when it’s time to compete,” Cohen said. “But regardless of where we are and what we’re doing, when it’s time to come and represent Columbia, we’ll come together and we’ll fight together because we want to see each other win.”"
+            },
+            {
+              "type": "text",
+              "value": "<i>This is part one of Spectator’s new series “Competing Against the Coronavirus,” which explores how the COVID-19 pandemic affects Columbia athletes. </i>"
+            },
+            {
+              "type": "text",
+              "value": "<i>Senior staff writer Mackenzie George can be contacted at </i><a href=\"mailto:mackenzie.george@columbiaspectator.com\"><i>mackenzie.george@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/kenziegeorge22?lang=en\"><i>@kenziegeorge22.</i></a><i> </i>"
+            }
+          ],
+          "page_1": [],
+          "page_2": []
+        },
+        "headline": "Fencers contemplate academics, athletics as they make plans for fall 2020",
+        "date": "Sept. 23, 2020",
+        "byline": "By Mackenzie George",
+        "footer": "Produced by <a href=\"https://www.columbiaspectator.com/contributors/hong-sen-du/\">Hong Sen Du</a> and Raeedahhhhhhhh",
+        "pages": {
+          "page_0_link": "https://www.columbiaspectator.com/sports/2020/09/15/columbia-university-marching-band-votes-to-disband-after-116-years/",
+          "page_0_title": "Part 1: Fencers contemplate academics, athletics as they make plans for fall 2020",
+          "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LXUAEPCMXNCJ3MLKWH3PKY3YQE.jpg",
+          "page_0_cover_caption": "After finding national success, members of the fencing team juggled their dual roles as students and athletes when making decisions about the fall semester.",
+          "page_0_heading": "Part 1",
+          "page_1_link": "",
+          "page_1_title": "",
+          "page_1_cover_img": "",
+          "page_1_cover_caption": "",
+          "page_1_heading": "Part 2: Coming soon",
+          "page_2_link": "",
+          "page_2_title": "",
+          "page_2_cover_img": "",
+          "page_2_cover_caption": "",
+          "page_2_heading": "Part 3: Coming soon"
+        },
+        "USE_NEWS_NAV": false,
+        "USE_EYE_NAV": true,
+        "USE_COVER_HED": false,
+        "IS_EMBED": false,
+        "DOC_URL": "https://docs.google.com/document/d/1PLKaZq1d5nOUF_xFVnAC6i7Bh6jfT63yfWWcl_fhFmk/edit?usp=sharing"
+      }
+    }
+  }
+}
