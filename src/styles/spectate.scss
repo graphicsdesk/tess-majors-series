@@ -91,14 +91,14 @@ b {
     color: #fff;
     transform: translateY(-40vh);
     align-items: center;
-    
+
     p, h1 {
        color: #fff;
     }
 
     .byline {
       text-align: center;
-      
+
       a {
         color: #fff;
       }
@@ -292,7 +292,7 @@ header {
     border-bottom: 3px solid transparent;
     transition: border $fade-transition-duration;
 
-    &.nav-link-highlighted, &:hover {      
+    &.nav-link-highlighted, &:hover {
       border-bottom: 3px solid #fff;
     }
 
@@ -381,7 +381,7 @@ header {
     border-bottom: 3px solid transparent;
     transition: border $fade-transition-duration;
 
-    &.nav-link-highlighted {      
+    &.nav-link-highlighted {
       border-bottom: 3px solid #121212;
     }
   }
@@ -638,11 +638,11 @@ header {
     color: rgba(0, 0, 0, 0.7);
     line-height: 22px;
     font-size: 15px;
-  }  
+  }
 
   .article-credits {
     letter-spacing: 0.45px;
-  }  
+  }
 
   .article-credits::before {
     display: block;

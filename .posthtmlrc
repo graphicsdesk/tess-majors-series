@@ -152,7 +152,7 @@
         "headline": "Fencers contemplate academics, athletics as they make plans for fall 2020",
         "date": "Sept. 23, 2020",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Mackenzie-George/\">Mackenzie George</a>",
-        "footer": "Produced by <a href=\"https://www.columbiaspectator.com/contributors/Raeedah-Wahid/\">Raeedah Wahid</a>.",
+        "footer": "",
         "pages": {
           "page_0_link": "",
           "page_0_title": "Part 1: Fencers contemplate academics, athletics as they make plans for fall 2020",
@@ -172,7 +172,7 @@
         },
         "USE_NEWS_NAV": false,
         "USE_EYE_NAV": true,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1PLKaZq1d5nOUF_xFVnAC6i7Bh6jfT63yfWWcl_fhFmk/edit?usp=sharing"
       }
