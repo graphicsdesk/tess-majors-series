@@ -14,14 +14,6 @@
               "value": "After Columbia reversed its plan to grant all undergraduates at least one semester on campus weeks before class began, students spent the rest of their summer grappling with a handful of less-than-ideal options. Many wrestled with the question of whether they should remain enrolled and risk at least a semester of classes on Zoom or take a gap year and search for work in a shaky economy."
             },
             {
-              "type": "image",
-              "value": {
-                "width": "auto",
-                "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OYBGVMBGQBBWZDGNPEUR4E4JHU.jpeg",
-                "credit": "Kate Della Pietra"
-              }
-            },
-            {
               "type": "text",
               "value": "While all Columbia students dealt with the loss of in-person classes, clubs, and proximity to friends as they made their choices, an additional factor loomed large for student-athletes: the possible <a href=\"https://www.columbiaspectator.com/sports/2020/04/13/unfinished-fencing-seniors-struggle-to-find-closure-after-covid-19-erases-chance-at-second-straight-national-title/\">loss of a season.</a> For many, it came on the heels of another abbreviated or <a href=\"https://www.columbiaspectator.com/sports/2020/05/07/after-a-shattered-season-leo-pollack-stares-down-a-long-road-to-recovery/\">missed season </a>in spring 2020."
             },
@@ -130,7 +122,7 @@
               "value": {
                 "width": "auto",
                 "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IGNWNA4XBZH3BHQY3NGW6YUFOY.jpg",
-                "credit": "Courtesy of"
+                "credit": "Courtesy of Columbia University"
               }
             },
             {
@@ -159,10 +151,10 @@
         },
         "headline": "Fencers contemplate academics, athletics as they make plans for fall 2020",
         "date": "Sept. 23, 2020",
-        "byline": "By Mackenzie George",
-        "footer": "Produced by <a href=\"https://www.columbiaspectator.com/contributors/hong-sen-du/\">Hong Sen Du</a> and Raeedahhhhhhhh",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Mackenzie-George/\">Mackenzie George</a>",
+        "footer": "Produced by <a href=\"https://www.columbiaspectator.com/contributors/Raeedah-Wahid/\">Raeedah Wahid</a>.",
         "pages": {
-          "page_0_link": "https://www.columbiaspectator.com/sports/2020/09/15/columbia-university-marching-band-votes-to-disband-after-116-years/",
+          "page_0_link": "",
           "page_0_title": "Part 1: Fencers contemplate academics, athletics as they make plans for fall 2020",
           "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LXUAEPCMXNCJ3MLKWH3PKY3YQE.jpg",
           "page_0_cover_caption": "After finding national success, members of the fencing team juggled their dual roles as students and athletes when making decisions about the fall semester.",

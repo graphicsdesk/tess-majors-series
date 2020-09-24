@@ -5,10 +5,10 @@
 
 #body-page-container.body-page-0 {
     .cover-hed header {
-        transform: translateY(-180%);
+        transform: translateY(-150%);
     }
 }
-   
+
 
 #body-page-container.body-page-1 {
     .cover-hed header {
@@ -41,7 +41,7 @@
     #body-page-container.body-page-0,
     #body-page-container.body-page-1 {
         .cover-hed header {
-            transform: translateY(-130%) !important;
+            transform: translateY(-150%) !important;
         }
     }
 }
