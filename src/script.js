@@ -1,9 +1,10 @@
+import enterView from 'enter-view';
 import textBalancer from 'text-balancer';
 import initiatePage from './scripts/page';
 import { intersectTop } from './scripts/utils';
-
 import { spectate as spectateConfig } from '../package.json';
 
+var USE_COVER_HED = true
 // Main page initiation
 
 initiatePage();

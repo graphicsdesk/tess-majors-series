@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "parcel src/index.html --global script",
+    "start": "parcel src/index1.html --global script",
     "build": "parcel build src/index.html --global script --public-url https://spectator-static-assets.s3.amazonaws.com/fencing-series --no-content-hash --no-source-maps",
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "npx npm-force-resolutions",
@@ -14,8 +14,8 @@
     "eslint": "^7.0.0",
     "parcel-bundler": "^1.12.4",
     "patch-package": "^6.2.2",
-    "posthtml-expressions": "^1.4.0",
-    "posthtml-include": "^1.4.3",
+    "posthtml-expressions": "^1.5.0",
+    "posthtml-include": "^1.5.0",
     "sass": "^1.26.5"
   },
   "dependencies": {
