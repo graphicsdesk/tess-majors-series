@@ -21,7 +21,7 @@
     <include src="partials/header-cover.html"></include>
 
     <div class="story">
-      <each loop="item in body['page_' + pageNum]">
+      <each loop="item in bodies['page_' + pageNum]">
         <switch expression="item.type">
           <case n="'text'">
             <include src="partials/paragraph.html"></include>

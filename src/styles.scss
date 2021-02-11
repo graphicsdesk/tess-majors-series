@@ -3,7 +3,7 @@
 // Uncomment the following line before publishing a News story
 @import "styles/news-ellipsis";
 
-#body-page-container.body-page-0 {
+#body-page-container.body-page-0{
     .cover-hed header {
         transform: translateY(-150%);
     }
@@ -12,24 +12,19 @@
 
 #body-page-container.body-page-1 {
     .cover-hed header {
-        transform: translateY(-120%);
+        transform: translateY(-140%);
     }
     .cover>img {
         object-position: 90% 0;
     }
 }
 
-#body-page-container.body-page-1 {
-    #navbar.only-logo .nav-link {
-
-        &.nav-link-highlighted,
-        &:hover {
-            border-bottom: 3px solid #121212;
-        }
-
-        a {
-            color: #121212;
-        }
+#body-page-container.body-page-2 {
+    .cover-hed header {
+        transform: translateY(-200%);
+    }
+    .cover>img {
+        object-position: 90% 0;
     }
 }
 

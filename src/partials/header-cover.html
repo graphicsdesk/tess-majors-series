@@ -4,7 +4,7 @@
   <header>
     <h1 class="headline">{{ pageNum === 0 ? headline : pages['page_' + pageNum + '_title'] }}</h1>
     <!-- <p class="deck">{{ deck }}</p> -->
-    <p class="byline">{{{ byline }}}</p>
+    <p class="byline">{{{ pages['page_' + pageNum + '_byline']}}}</p>
     <p class="pub-date">{{ pageNum === 0 ? date : pages['page_' + pageNum + '_date'] }}</p>
   </header>
 </div>

@@ -1,10 +1,10 @@
 {
-  "name": "fencing-series",
+  "name": "tess-majors-series",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "parcel src/index1.html --global script",
-    "build": "parcel build src/index.html src/index1.html --global script --public-url https://spectator-static-assets.s3.amazonaws.com/fencing-series --no-content-hash --no-source-maps",
+    "start": "parcel src/index.html --global script",
+    "build": "parcel build src/index.html src/index1.html src/index2.html --global script --public-url https://spectator-static-assets.s3.amazonaws.com/tess-majors-series --no-content-hash --no-source-maps",
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "npx npm-force-resolutions",
     "postinstall": "patch-package"
@@ -14,8 +14,8 @@
     "eslint": "^7.0.0",
     "parcel-bundler": "^1.12.4",
     "patch-package": "^6.2.2",
-    "posthtml-expressions": "^1.5.0",
-    "posthtml-include": "^1.5.0",
+    "posthtml-expressions": "^1.7.1",
+    "posthtml-include": "^1.6.0",
     "sass": "^1.26.5"
   },
   "dependencies": {
@@ -40,6 +40,6 @@
     "USE_EYE_NAV": true,
     "USE_COVER_HED": true,
     "IS_EMBED": false,
-    "DOC_URL": "https://docs.google.com/document/d/1PLKaZq1d5nOUF_xFVnAC6i7Bh6jfT63yfWWcl_fhFmk/edit?usp=sharing"
+    "DOC_URL": "https://docs.google.com/document/d/1pb5_YWij2pRI0xkCU4_cZQiUy10raVI_NrVxJkcp5sU/edit?usp=sharing"
   }
 }

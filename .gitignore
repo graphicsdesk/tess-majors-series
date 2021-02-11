@@ -1,8 +1,10 @@
-.DS_Store
+# NPM
+node_modules
+
+# Parcel
 .cache
 dist
-node_modules
-credentials.json
-token.json
 
-.env
+# Other
+.DS_Store
+.vscode

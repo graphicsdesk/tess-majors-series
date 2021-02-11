@@ -1,268 +1,392 @@
 {
-  "headline": "Fencers contemplate academics, athletics as they make plans for fall 2020",
-  "date": "Sept. 23, 2020",
-  "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Mackenzie-George/\">Mackenzie George</a>",
-  "footer": "",
+  "headline": "An unthinkable tragedy struck Barnard and its surrounding community. A year later, what has changed?",
+  "date": "Feb. 11, 2021",
+  "byline": "Sofia Kwon",
   "pages": {
-    "page_0_link": "https://www.columbiaspectator.com/sports/2020/09/23/fencers-contemplate-academics-athletics-as-they-make-plans-for-fall-2020/",
-    "page_0_title": "Part 1: Fencers contemplate academics, athletics as they make plans for fall 2020",
-    "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LXUAEPCMXNCJ3MLKWH3PKY3YQE.jpg",
-    "page_0_cover_caption": "After finding national success, members of the fencing team juggled their dual roles as students and athletes when making decisions about the fall semester.",
+    "page_0_link": "https://www.columbiaspectator.com/news/2021/02/11/an-unthinkable-tragedy-struck-barnard-and-its-surrounding-community-a-year-later-what-has-changed/",
+    "page_0_title": "An unthinkable tragedy struck Barnard and its surrounding community. A year later, what has changed?",
+    "page_0_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FRMDASKKIZDODGXRWX6QS7WZ6Q.jpg",
+    "page_0_cover_caption": "Millie Felder / Senior Staff Photographer",
     "page_0_heading": "Part 1",
-    "page_0_date": "Sept. 23, 2020",
-    "page_1_link": "https://www.columbiaspectator.com/sports/2020/10/18/disparities-between-ncaa-and-ivy-policies-become-more-apparent-as-athletes-administration-navigate-pandemic/",
-    "page_1_title": "Part 2: Disparities between NCAA and Ivy policies become more apparent as athletes, administration navigate pandemic",
-    "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/H6DMNAIEZZFNZP6PWWA7HPIXNA.jpg",
-    "page_1_cover_caption": "Columbia fencing’s prowess at the national level does not exempt the team from Ivy League restrictions, which are becoming increasingly visible in the wake of the pandemic.",
+    "page_0_date": "",
+    "page_0_byline": "By Sofia Kwon",
+    "page_1_link": "https://www.columbiaspectator.com/news/2021/02/11/residents-say-youth-programming-is-essential-for-violence-prevention-in-the-wake-of-covid-19-the-dire-need-for-more-funding-has-been-exposed/",
+    "page_1_title": "Residents say youth programming is essential for violence prevention. In the wake of COVID-19, the dire need for more funding has been exposed",
+    "page_1_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TZCDO4N4JVHOJKZX6SEXHYQZTE.jpg",
+    "page_1_cover_caption": "Princeton Huang / Staff Photographer",
     "page_1_heading": "Part 2",
-    "page_1_date": "Oct. 18, 2020",
-    "page_2_link": "",
-    "page_2_title": "",
-    "page_2_cover_img": "",
-    "page_2_cover_caption": "",
-    "page_2_heading": "Part 3: Coming soon"
+    "page_1_date": "",
+    "page_1_byline": "By Maya Mitrasinovic",
+    "page_2_link": "https://www.columbiaspectator.com/news/2021/02/11/amid-calls-for-public-safety-reform-how-does-the-university-respond/",
+    "page_2_title": "Amid calls for Public Safety reform, how does the University respond?",
+    "page_2_cover_img": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SR6QIXFNMBFQ5MFCEUBDPUIEZI.jpg",
+    "page_2_cover_caption": "Beatrice Shlansky / Senior Staff Photographer",
+    "page_2_heading": "Part 3",
+    "page_2_byline": "by Drew Letellier",
+    "page_2_date": ""
   },
-  "body": {
+  "bodies": {
     "page_0": [
       {
         "type": "text",
-        "value": "After Columbia reversed its plan to grant all undergraduates at least one semester on campus weeks before class began, students spent the rest of their summer grappling with a handful of less-than-ideal options. Many wrestled with the question of whether they should remain enrolled and risk at least a semester of classes on Zoom or take a gap year and search for work in a shaky economy."
+        "value": "In December 2019, Barnard and its surrounding community were struck by the tragic death of Tess Majors in Morningside Park, and many community members gathered together to grieve the immeasurable loss. For many students and residents, the tragedy also revitalized conversations surrounding violence-prevention in the community."
       },
       {
         "type": "text",
-        "value": "While all Columbia students dealt with the loss of in-person classes, clubs, and proximity to friends as they made their choices, an additional factor loomed large for student-athletes: the possible <a href=\"https://www.columbiaspectator.com/sports/2020/04/13/unfinished-fencing-seniors-struggle-to-find-closure-after-covid-19-erases-chance-at-second-straight-national-title/\">loss of a season.</a> For many, it came on the heels of another abbreviated or <a href=\"https://www.columbiaspectator.com/sports/2020/05/07/after-a-shattered-season-leo-pollack-stares-down-a-long-road-to-recovery/\">missed season </a>in spring 2020."
+        "value": "However, these conversations around safety and crime in Morningside Heights have proven to be inherently fraught, especially as students and residents alike grapple with issues of excessive policing and <a href=\"https://www.columbiaspectator.com/news/2020/10/05/broken-windows-policing-and-gentrification-not-only-harmed-the-black-community-but-also-strengthened-columbias-reputation/\">the dangers an over-vigilant criminal justice system</a> pose for marginalized communities."
       },
       {
         "type": "text",
-        "value": "Columbia’s fencing team was still stinging from its lost opportunity to defend its <a href=\"https://www.columbiaspectator.com/sports/2019/11/22/columbia-fencing-attends-championship-visit-to-white-house-amid-mixed-opinions-from-team-members/\">2019 NCAA title</a>. Though the Lions had <a href=\"https://www.columbiaspectator.com/sports/2020/03/10/vierheller-and-walker-shine-mens-epee-falters-as-columbia-fencing-qualifies-11-for-nationals/\">fallen short</a> of qualifying a full team for the 2020 NCAA Division I National Championship, there remained a chance to bring home back-to-back national rings. The spread of the coronavirus catalyzed the <a href=\"https://www.columbiaspectator.com/sports/2020/03/11/ivy-league-cancels-all-spring-sports/\">cancellation of NCAAs</a>, but at the time, nobody knew that the pandemic could cost them their next season as well."
+        "value": "In the immediate aftermath of Majors’ death, some local politicians <a href=\"https://www.columbiaspectator.com/news/2019/12/16/local-politicians-address-violence-prevention-increased-police-presence-at-vigil-dedicated-to-tessa-majors-in-morningside-park/\">called for an increased police presence</a> in the park while speaking at a vigil, which angered some students and community members. Many residents called for the city to finally fulfill its promise to <a href=\"https://www.columbiaspectator.com/news/2020/01/30/community-members-see-long-awaited-safety-improvements-to-morningside-park-in-aftermath-of-majors-death/\">fix the lights within Morningside Park</a>; others advocate for <a href=\"https://www.columbiaspectator.com/the-eye/2020/03/04/the-motto-specializing-in-saving-lives-means-more-to-youth-than-one-might-expect/\">after-school youth programs</a> as vital efforts toward violence prevention."
       },
       {
         "type": "text",
-        "value": "Senior Josef Cohen, one of many students who decided to take a year off from school in order to retain his final year of NCAA <a href=\"https://www.columbiaspectator.com/sports/2020/07/08/ivy-league-cancels-all-fall-sports-will-revisit-athletics-in-january-2021/\">eligibility</a>, is looking for a job in New York City. A sabre fencer for the Lions, Cohen qualified for Nationals in 2020 along with fellow senior Andrew Doddo."
-      },
-      {
-        "type": "text",
-        "value": "“I think that in terms of sports, I look to all the cancellations of big football schools in the fall as a predecessor to what’s going to happen,” Cohen said. “I think that that probably influenced a lot of our decisions.”"
-      },
-      {
-        "type": "text",
-        "value": "On Sept. 16, the Big Ten announced it would proceed with its football season, a marked reversal from its earlier position."
-      },
-      {
-        "type": "text",
-        "value": "Fencers looking to preserve a year of eligibility can take a voluntary leave of absence. The trade-off, which holds true for non-athletes as well, is the loss of guaranteed Columbia housing when they return as well as the postponement of other opportunities."
-      },
-      {
-        "type": "text",
-        "value": "Though Doddo has one semester of athletic eligibility remaining, deferring his final semester means passing up post-graduation opportunities now. He will finish his studies this fall."
-      },
-      {
-        "type": "text",
-        "value": "“I was kind of hoping that sports would resume in the spring, but again, with the Ivy League being a separate entity, I don’t foresee that happening, so I think I’m just going to hurry up and get this degree and figure it out,” Doddo said. “I feel kind of guilty receiving job offers and having to put them on hold.”"
-      },
-      {
-        "type": "text",
-        "value": "Cohen also faced pressure in his home state of Rhode Island as his high school friends—predominantly non-athletes—headed back to college in the fall and looked for professional opportunities after their graduation. Ultimately, Cohen considered the effects this decision would have on him as both a student and an athlete. Academically, he had not enjoyed online school in the spring. But he had also been selected as a captain, a role he stepped away from once he chose to take a year off."
-      },
-      {
-        "type": "text",
-        "value": "Citing the myriad opportunities fencing has provided for him—from traveling the world at a young age to devoting himself to a sport—Cohen said that while pausing school might not be a normal step for most students, it was the right choice for him."
-      },
-      {
-        "type": "text",
-        "value": "“[My friends are] going to be graduating from college, heading into the workforce hopefully, and that was one of the biggest sources of pressure,” Cohen explained. “I’m taking this huge step back in my life’s development, and I kind of had to think about it and look back on my life and be like, what normal experience? Because fencing has brought so many awesome things into my life.”"
+        "value": "More than a year after the tragedy, Spectator examines what has changed in the neighborhood as local residents and Columbia affiliates grapple with the best ways to prevent violence."
       },
       {
         "type": "image",
         "value": {
           "width": "auto",
-          "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WYWJIE36PNGHLLPJM6EOQ4YKYQ.jpg",
-          "credit": "Sarah-Jayne Austin"
+          "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/N6A5VLOZFNFB7LIMDEZ4WDVXCA.jpg",
+          "credit": "Beatrice Shlansky / Senior Staff Photographer"
         }
       },
       {
         "type": "text",
-        "value": "According to head coach <a href=\"https://www.columbiaspectator.com/sports/2020/02/27/everyone-matters-how-aufrichtig-built-a-fencing-dynasty-centered-on-teamwork/\">Michael Aufrichtig</a>, around a quarter of the team elected to take time off at the start of the fall term, which will create challenges for future roster management. Aufrichtig said this will affect playing time for the next two years as fewer athletes will have the chance to compete at the regional competition given the unexpected retention of an extra 25 percent of the current roster."
+        "value": "Morningside Park has long been perceived as “dangerous” by Columbia affiliates, but the park has always served as <a href=\"https://www.columbiaspectator.com/news/2020/01/22/morningside-park-is-essential-to-harlems-identity-how-has-the-university-misunderstood-resident-challenges-in-the-public-space/\">an essential </a>public space for the West Harlem community to gather. Even so, residents have long called for the city to address safety concerns in the park."
       },
       {
         "type": "text",
-        "value": "Aufrichtig said that if a global pandemic had occurred during his fencing career at New York University, he would have taken the fall off and reevaluated in the spring."
+        "value": "“It’s been a long-standing issue: poor visibility in the park,” said Anthony Carrion, co-chair of the Landmarks Preservation & Parks committee of Community Board 9—a local advisory board that represents the Morningside Heights and West Harlem communities."
       },
       {
         "type": "text",
-        "value": "However, not all fencers were able to take a single semester off. Senior sabre fencer Maria Chart was informed that as a student in the School of Engineering and Applied Science, her options were limited to either taking an entire year off or returning to classes in the fall. She considered getting a yearlong internship, but when she found that nobody was hiring, she elected to finish her studies this year."
+        "value": "In the immediate aftermath of Majors’ death, the Department of Transportation committed to prioritizing Morningside Park for light replacement. A DOT spokesperson told Spectator in early 2020 that the department would update lighting to LED lights, which are far brighter than traditional bulbs, in Morningside Park later that spring."
       },
       {
         "type": "text",
-        "value": "Chart’s tenure with the Lions is an illustrious one: During her time with the team, Columbia has taken home three Ivy League crowns and an NCAA title. Now, she may have no senior season at all."
+        "value": "Since then, local residents said they have been satisfied with the significant safety improvements in the park. Brad Taylor, president of Friends of Morningside Park, a nonprofit dedicated to preserving and improving Morningside Park, said that he has seen “pretty dramatic improvements” in the park, like the implementation of LED lights."
       },
       {
         "type": "text",
-        "value": "When Chart made the decision to move back to the city from her home in England, there was still potential for some in-person fencing training. She still hopes that this preparation will be put to good use in the spring."
+        "value": "Both Friends of Morningside Park and CB9 have been working to implement safety changes, and the board’s Landmarks Preservation & Parks Committee even addressed the first anniversary of Majors’ death and subsequent changes made to Morningside Park at their monthly meeting in January."
       },
       {
         "type": "text",
-        "value": "“I would love to believe that we’re going to have a season. I’m not sure that we will,” she said. “I think I’ve been so disappointed by so many things over the past six months that I’m trying not to get my hopes up.”"
+        "value": "“We have lit up all our main corridors—staircases that go east and west throughout the park,” Carrion said at the January Landmarks Preservation & Parks Committee meeting. “This spring, DOT will be working on converting the rest of the lights over to LED.”"
       },
       {
         "type": "text",
-        "value": "On the other hand, some students’ majors afforded them more flexibility when it came to deciding whether to take time off. Junior foilist Natalie Minarik, a political science major, said she would take a semester off and reevaluate in a few months since she no longer needs to worry about taking classes in a sequence."
+        "value": "Additionally, Taylor noted that the DOT has become more responsive with addressing light outages in the park."
       },
       {
         "type": "text",
-        "value": "Two épée fencers, senior Julian Maldonado and sophomore Alan Temiryaev, both considered personal development as a factor in their decisions, though it led each down different paths."
+        "value": "The number of security cameras throughout the park has also increased thanks to the advocacy of local residents. “With help of NYPD and DOT and collaboration with Parks, we installed three additional camera locations which have multiple camera viewpoints, which go live into NYPD’s camera feed,” said Matt Genrich, a resident present at the committee meeting."
       },
       {
         "type": "text",
-        "value": "Temiryaev, who will continue the academic year uninterrupted, said his first-year experience played a part in his thought process, believing that at this time he needed to focus on working toward a career rather than base his choice on extracurriculars. He also brought up various unknown variables: the future trajectory of coronavirus cases, the number of athletes willing to compete should there be a season, and the likelihood of students being invited back on campus. Although it is difficult to make a prediction, Temiryaev said, he is optimistic."
+        "value": "Taylor still feels that Morningside Park needs more security. “There are a couple of locations that are crucial and key, and they have not been addressed,” he said."
       },
       {
         "type": "text",
-        "value": "While Temiryaev takes classes online, Maldonado will volunteer for a humanitarian aid organization called No More Deaths and get his EMT certification."
+        "value": "In addition to lights and security cameras, unarmed Park Enforcement Patrol officers constitute another major change to Morningside Park. Though they are not members of the police force, PEP officers patrol the park on foot and give tickets."
       },
       {
         "type": "text",
-        "value": "“One of the major things that played into my decision was the rate of personal development that I would be going through if I were to take a gap year and then go back to school,” Maldonado said. “I feel like at this point in our early twenties, college-age, we’re kind of figuring out who we are and what we want to do at a really fast rate.”"
+        "value": "“We’ve been asking for PEP officers for years,” Taylor said. “[And] the parks department stepped up.”"
       },
       {
         "type": "text",
-        "value": "Like Maldonado, Chart is a senior. But as she chooses to press forward with her studies at Columbia, she may cede her last chance to compete as a Lion if winter and spring sports are canceled as the University does not allow graduate students to compete in varsity athletics. While she could fence for another institution outside of the Ivy League as a fifth-year or graduate athlete, Chart said she feels lucky to have experienced the last three years with the Columbia fencing team."
+        "value": "However, with increased patrols and surveillance of the park comes questions of over-policing, particularly because the neighborhood has a predominantly Black and Hispanic population. Nationwide, Black and Hispanic people are disproportionately targeted by police. Historically, New York Police Department initiatives like “broken windows” and “stop-and-frisk” have served as excuses to increase contact between police and vulnerable communities to funnel people into prison, <a href=\"https://www.columbiaspectator.com/news/2020/10/05/broken-windows-policing-and-gentrification-not-only-harmed-the-black-community-but-also-strengthened-columbias-reputation/\">according to experts. </a>"
       },
       {
         "type": "text",
-        "value": "“Even though I would love to have a senior year with the opportunity to do all that again, I feel like I’ve had such a good experience over the last three years [winning three Ivy titles and the NCAAs],” Chart said. “I think that’s more than most student-athletes do during their time in college, so I definitely think it could be much worse.”"
+        "value": "“Last January, after the murder, there was a lot of over-policing. … People were pretty upset about that,” Taylor said. “It was off-putting.”"
+      },
+      {
+        "type": "text",
+        "value": "Priti Patel, the program manager for Placemaking at Project for Public Spaces, a New York-based nonprofit for preserving public spaces, said that balancing desires for safety with discouraging over-policing is “a challenge in every public space.”"
+      },
+      {
+        "type": "text",
+        "value": "“[The solution] starts with asking community members: How would you feel safer?” Patel said. “The challenge is that there are often many people who show up to engagement efforts and would like to see more police and security, but that isn’t the same response you would hear from vulnerable populations—people experiencing homelessness, young Black men.”"
       },
       {
         "type": "image",
         "value": {
           "width": "auto",
-          "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IGNWNA4XBZH3BHQY3NGW6YUFOY.jpg",
-          "credit": "Courtesy of Columbia University"
+          "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3I2R5DUQWZAQNF256ACMVHVNGI.jpg",
+          "credit": "Beatrice Shlansky / Senior Staff Photographer"
         }
       },
       {
         "type": "text",
-        "value": "Doddo adopted a similar attitude, observing “that really big one from last year”—the Light Blue’s most recent national title—“has a nice spot in my room.”"
+        "value": "Amid the increased police presence, as well as the national attention garnered by the case, community residents <a href=\"https://www.columbiaspectator.com/news/2020/03/25/as-majors-case-awaits-trial-experts-say-public-urgency-has-led-to-unfair-treatment-of-youth-suspects/\">called for fair treatment of youth suspects and raised concerns</a> about local policing practices in regards to the case."
       },
       {
         "type": "text",
-        "value": "Some fencers continue to train at private clubs. Fencing is, after all, an individual sport. But when it is once again safe to pack into Columbia’s fencing room, the consensus is that the athletes will be ready. After all, the Lions are still the reigning national champions."
+        "value": "“The way that many of our young men of color were being taken in for questioning, whether or not there was any evidence relating them to that, was something that deeply troubled us,” CB9 Chair Barry Weinberg said at a board meeting in February 2020. “That caused a lot of fear in our community.”"
       },
       {
         "type": "text",
-        "value": "“We’re all kind of accustomed to going off on our own and doing our own thing and then coming back together when it’s time to compete,” Cohen said. “But regardless of where we are and what we’re doing, when it’s time to come and represent Columbia, we’ll come together and we’ll fight together because we want to see each other win.”"
+        "value": "Residents have still expressed desires to collaborate with the NYPD, even calling for the 26th Precinct to conduct a “walkthrough” for Morningside Park with residents. However, Carrion and Taylor both emphasized their belief in alternative methods of violence prevention beyond the scope of policing—namely more programming for young people in the area."
       },
       {
         "type": "text",
-        "value": "<i>This is part one of Spectator’s new series “Competing Against the Coronavirus,” which explores how the COVID-19 pandemic affects Columbia athletes. </i>"
+        "value": "For Friends of Morningside Park, Taylor says that forums in January 2020 brought to their attention the importance of bringing youth programming to the park. Last year, the organization started a program called Harlem Youth Gardeners, which employed 22 local teenagers in the summer and into the fall to learn about plants, horticulture, and gardening."
       },
       {
         "type": "text",
-        "value": "<i>Senior staff writer Mackenzie George can be contacted at </i><a href=\"mailto:mackenzie.george@columbiaspectator.com\"><i>mackenzie.george@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/kenziegeorge22?lang=en\"><i>@kenziegeorge22.</i></a><i> </i>"
+        "value": "“Lack of investment in youth is a nationwide issue; there’s a long-standing history,” Carrion said."
+      },
+      {
+        "type": "text",
+        "value": "<i>Continue reading part 2 to hear more about how youth programming, an essential element of violence prevention, has been impacted by the COVID-19 pandemic. </i>"
+      },
+      {
+        "type": "text",
+        "value": "<i>News Editor Sofia Kwon can be contacted at </i><i>sofia.kwon@columbiaspectator.com</i><i>. Follow her on Twitter </i><a href=\"https://twitter.com/sofiamkwon?lang=en\"><i>@sofiamkwon</i></a><i>. </i>"
       }
     ],
     "page_1": [
       {
         "type": "text",
-        "value": "Although the Ivy League was decried as hasty in shutting down spring competition, it also led the way this semester when it <a href=\"https://www.columbiaspectator.com/sports/2020/03/11/ivy-league-cancels-all-spring-sports/\">canceled all fall sports</a> seasons and practices. Meanwhile, the NCAA vacillated, with some conferences choosing to pursue a fall football season and others canceling fall sports altogether."
+        "value": "Despite community leaders’ requests to improve safety measures in Morningside Park, residents have long advocated for <a href=\"https://www.columbiaspectator.com/the-eye/2020/03/04/the-motto-specializing-in-saving-lives-means-more-to-youth-than-one-might-expect/\">youth programming</a> in an attempt to  prevent community violence."
       },
       {
         "type": "text",
-        "value": "With the end of the fall season approaching, both the Ivy League and the NCAA will have to review issues of winter and spring competitions, coach-athlete interactions, and training plans. While the NCAA is working to make accommodations for athletes during this time, the Ivy League remains steadfast in its commitment to pre-coronavirus policies."
+        "value": "“Both locally and city-wide, we think that there are tremendous opportunities to see our young people not as potential violent criminals, but as young people who need to be engaged and can be a great service to their city,” Jess Dannhauser explained. Dannhauser is the CEO of Graham Windham, a nonprofit that assists children and families."
       },
       {
         "type": "text",
-        "value": "Though present before the coronavirus, the differences between the two conferences are becoming even clearer as both the Ivy League and the NCAA formulate their respective COVID-19 rules and response plans for athletes."
+        "value": "Not only does strong youth programming give children and young adults something productive to do with their free time, but it also provides emotional support for those who might not have a strong support system at home."
       },
       {
         "type": "text",
-        "value": "College athletes yield certain privileges when they attend an Ivy League institution. Although Ancient Eight athletes enjoy access to elite alumni networks and education, they do not receive athletic scholarships. In addition, the opportunity to enjoy a redshirt year is slim, as the Ivy League prohibits graduate students from competing in varsity athletics."
+        "value": "Although conversations surrounding youth education and after-school programs reignited in the wake of Barnard first-year Tess Majors’ death, local residents soon found themselves grappling with a new crisis: COVID-19. The pandemic forced programs to adapt to health guidelines that prohibit large gatherings. In addition, an economic recession has posed a new challenge for programs that need more funding in order to conduct their services."
+      },
+      {
+        "type": "subhed",
+        "value": "<b> The role of youth programming </b>"
       },
       {
         "type": "text",
-        "value": "Disparities between NCAA and Ivy league regulations have become particularly important for winter sports, especially for teams that perform well at a national level, such as Columbia fencing. The fencing team’s success is an anomaly at the University, where many teams languish at the bottom of Ancient Eight standings, let alone national ones."
+        "value": "Growing up in West Harlem, Kelvin McAllister witnessed the effects that gang violence and drugs had within his community. McAllister noticed the lack of community and youth programming, and took it upon himself to found one of these programs in 1990 after becoming a parent."
       },
       {
         "type": "text",
-        "value": "Though head coach Michael Aufrichtig’s team excels in the NCAA competition, it is still subject to the <a href=\"https://www.columbiaspectator.com/sports/2020/04/02/ivy-league-to-deny-spring-athletes-additional-year-of-in-conference-eligibility/\">constraints </a>of the Ivy League’s regulations. For Aufrichtig, one drawback is that non-Ivies are allowed to travel with more than 15 fencers. Columbia cannot."
+        "value": "He founded Uptown Inner City League Baseball, an organization that uses sports to create opportunities for local children by immersing them in a team experience."
       },
       {
         "type": "text",
-        "value": "Despite these limitations, the Ivy League’s proactive response to the pandemic has put Aufrichtig’s mind at ease."
+        "value": "“You’re going to be part of a gang that’s not rooted in violence,” McAllister said. When describing the ways in which he welcomed the young people who joined his baseball league, he said, “When you join the program, you are my son or my daughter.”"
       },
       {
         "type": "text",
-        "value": "“I feel that I’m part of a group, part of a league, that definitely has the students’ safety as their number one priority, and that’s a good thing,” Aufrichtig said after Columbia decided not to bring students back to campus for the fall, and to postpone all in-person sports until at least January."
+        "value": "Graham Windham, like many other youth programming organizations in the area, understands its role in the community as not just keeping kids occupied, but also tending to their emotional needs."
       },
       {
         "type": "text",
-        "value": "According to Aufrichtig, the decision to cancel in-person practices and competitions was not taken lightly. In late summer, athletic staff began to receive training in new campus policies and phased-training programs. Aufrichtig explained that time and money invested in this program could have been directed elsewhere if the University wasn’t hoping to make some on-campus training possible for athletes."
+        "value": "“Just getting to more kids doesn’t typically work. You have to really go deep and engage,” Dannhauser said."
       },
       {
         "type": "text",
-        "value": "Instead of attending practices on campus, athletes’ routines now involve weekly NCAA compliance training, where the current situation—training in a pandemic—is treated as “fluid.”"
+        "value": "In the aftermath of Majors’ death, Graham Windham aimed to partner with similar organizations in the community to engage and connect with the young people. “We checked in with our kids to make sure they had what they really needed,” Dannhauser added."
       },
       {
         "type": "text",
-        "value": "“We’ll hear about a rule on Tuesday, and on Wednesday, it’s changed. We’ll hear ‘no’ on Wednesday and ‘yes’ on Thursday, because, as things are changing, the rules are changing,” Aufrichtig said."
+        "value": "McAllister’s response to Majors’ death was similar to that of Dannhauser and Graham Windham. He felt that the tragedy could have been avoided if there were more opportunities for youth programming and ways to engage the young people in the neighborhood."
       },
       {
         "type": "text",
-        "value": "One benefit to such compliance meetings is the ability to observe allocations that the NCAA makes as its athletes navigate the pandemic. Previously, student-athletes who took voluntary leaves of absence were not permitted to be a part of team meetings. Now, the NCAA is allowing these athletes to maintain contact with their coaches and teams, though they still will be barred from “chalk talk,” or competition-related discussions."
+        "value": "“It really impacted us [as a community], because what if these young people had an opportunity, if they had a place to go—a storefront with a learning center where they could have gone to do their homework, or to use computers, or to do a project, or just to associate with one another. An idle mind is the devil’s advocate,” McAllister explained."
       },
       {
         "type": "text",
-        "value": "Among their various initiatives taken in light of the pandemic, the NCAA restored a year of eligibility for athletes whose seasons were lost due to COVID-19. Schools with robust scholarship programs for their athletes faced the issue of bankrolling an unforeseen additional year of scholarships while dealing with declining revenues. This would not have posed the same hardship for the Ivy League, which does not offer athletic scholarships, had it chosen to offer an extra year of eligibility to athletes."
+        "value": "McAllister and his team of volunteers wanted to ensure that his baseball league also provided opportunities off the diamond.  Consequently, they developed mentoring programs and brought in health professionals to educate the youth on mental and physical well-being. He also began a tutoring program to help the players improve their grades in school and provide opportunities for SAT prep."
+      },
+      {
+        "type": "subhed",
+        "value": "<b>Adjusting to the pandemic’s challenges</b>"
       },
       {
         "type": "text",
-        "value": "Unlike the NCAA Football Bowl Subdivision, whose football programs bring in millions of dollars each year, the most noteworthy revenue stream for Columbia Athletics is Giving Day. Last year’s Giving Day generated nearly $3 million for Athletics. Meanwhile, Ohio State (a national rival of the Lions’ fencing team), raked in $64 million in ticket sales alone during the 2019-2020 fiscal year, about 83 percent of which came from football."
+        "value": "As the pandemic challenged the traditional organizing methods of youth programming, leaders’ main priority was to ensure that all of their members could still attend school and their extracurricular groups."
       },
       {
         "type": "text",
-        "value": "The Ivy League has already lost many teams. In June, Brown University cut 11 of its varsity sports, followed the next month by Dartmouth College’s decision to eliminate five teams. While performance and an overconcentration of recruited athletes on campus also contributed to these decisions, both universities cited financial downturns caused by the pandemic as a leading factor."
+        "value": "Graham Windham quickly moved everything it could to virtual platforms and held sessions to help make students more comfortable with Zoom and other technologies. It also helped the community by procuring donations that funded the purchase of headphones and 350 laptops for students in 2020. Graham Windham staff also developed a technology team that addressed student issues with Internet connectivity and laptops."
       },
       {
         "type": "text",
-        "value": "There was little uniformity across the country as various conferences made decisions about the fall season. All 10 of the NCAA’s top-tier football conferences eventually chose to play, though they came to various conclusions about spectator participation. In an attempt to salvage other fall sports, the NCAA board of directors also approved a plan to conduct fall championships for sports like soccer, volleyball, and cross country in the spring."
+        "value": "“You can dance together, or you can dance virtually,” Kristen Ragusa, the vice president for youth success of Graham Windham, said. “So we didn’t stop! We created more because we knew that with such a tough time, the more you listen and the more opportunities you give them to come together and learn and grow and do things, they will feel better.”"
       },
       {
         "type": "text",
-        "value": "While the administration continues to work at a national level to accommodate student-athlete needs, the Ivy League remains stringent in its policies about graduate student participation. A Columbia athlete who wishes to use their additional year of eligibility must transfer to a school in another conference in order to compete. This rule has cost Ivy League institutions impressive players, such as former men’s basketball player Mike Smith, CC ’20, who transferred to the University of Michigan to play out his final year of eligibility."
+        "value": "Graham Windham saw yet another opportunity to step in when the city <a href=\"https://www.columbiaspectator.com/news/2020/05/03/new-york-city-cancels-its-summer-program-that-employs-75000-youths/\">canceled its Summer Youth Employment Program</a> due to COVID-19. The organization developed the Scholars of Service program in its place, creating 170 jobs for young people. These service-oriented jobs paid youths wages that they could use to support themselves and their families in a time when so many faced unemployment. One such group created a garden where they grew fresh vegetables to give out to the community, another taught elderly residents how to keep in touch with their families through technology, and another worked with a food bank to help it create a business plan."
       },
       {
         "type": "text",
-        "value": "Many athletes were<a href=\"https://www.columbiaspectator.com/sports/2020/09/23/fencers-contemplate-academics-athletics-as-they-make-plans-for-fall-2020/\"> forced to decide</a> whether they wanted to take a year off to retain their positions with the Lions, continue with their studies without sports, or transfer in order to keep competing. These restrictions already pose challenges to athletes, and with fall sports cancellations, the choice has become even more difficult."
+        "value": "“There was a lot of loss for our young people during COVID, and it continues. Giving them an opportunity to take some control and understand the needs, and to just own it and give—that was huge in all this. … We were available for them when they needed us,” Ragusa explained."
       },
       {
         "type": "text",
-        "value": "Senior sabrist Andrew Doddo said that the Ivy League’s geographic location could have something to do with its choice to cancel all fall athletics."
+        "value": "Due to COVID-19, McAllister’s baseball league lost its permit to play or gather in the park and could no longer participate in tournaments with teams across state lines. Even so, McAllister tried to get youth from his league to meet up for small, socially-distanced workouts in groups of two or three rather than the whole team. He also explained that he keeps in touch with every member of the league, and that they’re all connected through platforms like WhatsApp and Facebook."
       },
       {
         "type": "text",
-        "value": "“All the Ivy League schools are in the Northeast; we move a little differently,” he said. “We’re not in the middle of Georgia and can kind of figure out a way to keep fencing socially distant. We’re in a hot spot.”"
+        "value": "“We want to know what they’re feeling and what they’re going through. It’s important that they know that just because we’re not on the field, it doesn’t mean that we’re not on the same team anymore,” McAllister explained."
+      },
+      {
+        "type": "subhed",
+        "value": "<b>A vital need for funding</b>"
       },
       {
         "type": "text",
-        "value": "Athletes were encouraged to train at private clubs if possible. Junior Natalie Minarik, whose club practices on Long Island, said she’s “in a good training position right now,” but is unsure about future training at school. For the foreseeable future, according to Minarik, cramming 40 fencers into Columbia’s fencing room does not seem like a distinct possibility."
+        "value": "Although many organizations were able to continue their programming in new ways, there is little that can replace the importance of a group gathering. This is especially significant for youth programming, which is rooted in creating emotional bonds between young people. To accomplish this goal, however, one glaring issue needs to be addressed: the lack of funding that youth programming receives from the city."
       },
       {
         "type": "text",
-        "value": "“The NCAA’s a little more lenient and tries to accommodate people and get them back into their sport, but at this point, I am not expecting things to turn around very quickly. But I’m hopeful. I try to stay optimistic about it all,” Minarik continued."
+        "value": "“Police can’t be our priority for community safety. It felt like everything was being taken away except from that,” Dannhauser said, commenting on the ways in which other methods for community safety are prioritized over youth programming."
       },
       {
         "type": "text",
-        "value": "The Ivy League has stated that it will not entertain the idea of any sports competition before Jan. 1. In normal years, the fencing team would have already competed in four meets by then. For universities that are participating in sports this fall, their teams will have spent the entirety of this semester practicing, putting the Lions at a disadvantage."
+        "value": "Youth programs are reliant on funding, as many are free for the students who participate. Thus, grants and city funding are critical in ensuring that these programs continue to run. They require proper funding in order to purchase materials, hire staff, and maintain facilities."
       },
       {
         "type": "text",
-        "value": "On Tuesday, Oct. 13, the Division I Council voted to grant student-athletes who play winter sports an additional year of eligibility, regardless of whether they play this season. Initially, everyone’s eyes turned to basketball, the most lucrative sport on the list, but this option could also be appealing for fencers seeking one more national title. However, if they choose to pursue this avenue, they won’t be on the NCAA podium in Columbia blue."
+        "value": "Deirdre McIntosh-Brown, the youth, education & libraries committee co-chair of Community Board 9, echoed this call for more funding. Throughout the past year, CB9 has aimed to help youth programming organizations with strategic planning. Its main focus has been on advocacy, increasing outreach that pushes youths in the community to learn about and join these programs. However, McIntosh-Brown believes that this is not enough. The neighborhood desperately needs more funding to keep these programs running and to build new ones, McIntosh-Brown explained."
       },
       {
         "type": "text",
-        "value": "<i>Senior staff writer Mackenzie George can be contacted at </i><a href=\"mailto:mackenzie.george@columbiaspectator.com\"><i>mackenzie.george@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/kenziegeorge22?lang=en\"><i>@kenziegeorge22</i></a>."
+        "value": "“[In the past year] youth programs were strengthened, but there is still a lot more progress to be done,” McIntosh-Brown said. “[The city] does not see the equity and value in programs for our youth. We continue to shout and to raise our voices to bring attention to the fact that the youth is our equity. They are our future and our now.”"
+      },
+      {
+        "type": "text",
+        "value": "<i>Continue reading part 3 to learn about how the University has addressed safety concerns following both the death of Tess Majors and calls to defund Public Safety. </i>"
+      },
+      {
+        "type": "text",
+        "value": "<i>Staff writer Maya Mitrasinovic can be contacted at </i><a href=\"mailto:maya.mitrasinovic@columbiaspectator.com\"><i>maya.mitrasinovic@columbiaspectator.com</i></a><i>. Follow her on Twitter @m_mitrasinovic. </i>"
+      },
+      {
+        "type": "text",
+        "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
       }
     ],
-    "page_2": []
+    "page_2": [
+      {
+        "type": "text",
+        "value": "Following the death of Barnard first-year Tess Majors in December 2019, Columbia Public Safety and the NYPD faced calls from local politicians to increase its presence in the area around Morningside Park, which the NYPD did in the immediate aftermath of the incident. However, some students and residents <a href=\"https://www.columbiaspectator.com/news/2019/12/16/local-politicians-address-violence-prevention-increased-police-presence-at-vigil-dedicated-to-tessa-majors-in-morningside-park/\">opposed increased policing</a> as a response to Majors’ death, advocating for alternate solutions."
+      },
+      {
+        "type": "text",
+        "value": "In the months following Majors’ death, the murders of Black Americans at the hands of police such as George Floyd and Breonna Taylor, as well as the nationwide Black Lives Matter protests that followed, ignited a broader movement to reform or defund police departments. On Columbia’s campus, this movement manifested in demands from student groups, most notably <a href=\"https://www.columbiaspectator.com/news/2020/08/31/student-group-mobilized-african-diaspora-calls-on-university-to-stop-supporting-nypd-confront-anti-black-history/\">Mobilized African Diaspora</a>, to defund Columbia Public Safety and to amend the University’s past and present attitudes toward Black residents in the Harlem community."
+      },
+      {
+        "type": "text",
+        "value": "Both Columbia and Barnard Public Safety have recently faced continued calls for reform and defunding. Student groups like MAD maintain that the current structure of each institution’s respective department has failed to keep students of color safe. High-profile cases where force was used on students, like that of <a href=\"https://www.columbiaspectator.com/news/2019/04/12/black-columbia-student-physically-restrained-on-countertop-by-barnard-public-safety-requesting-to-see-cuid/\">Alexander McNab</a>, CC ’19, a then-Columbia senior who was forcibly restrained by Barnard Public Safety officers after failing to show his ID, highlight the dangers that many Black students face as they navigate campus."
+      },
+      {
+        "type": "text",
+        "value": "However, the movement to defund and reform Public Safety has broadened as calls to defund Public Safety were included in a list of demands as part of a <a href=\"https://www.columbiaspectator.com/news/2021/01/18/local-candidates-join-student-organizers-back-largest-tuition-strike-in-history-at-sunday-rally/\">tuition strike</a> led by the Young Democratic Socialists of America and a coalition of other student groups. The strike, currently at almost <a href=\"https://www.columbiaspectator.com/news/2020/12/14/thousands-sign-onto-columbia-tuition-strike-as-student-organizers-push-for-voice-in-university-budgets/\">4,497 signatories</a>, also calls for a 10 percent reduction in tuition, a 10 percent increase in financial aid, and for Columbia to stop its expansion into West Harlem among other demands."
+      },
+      {
+        "type": "text",
+        "value": "MAD notes that although Public Safety is not officially a law enforcement agency, several of the department’s most prominent figures such as Vice President for Public Safety James McShane and Columbia Director of Morningside Operations Timothy Malin <a href=\"https://www.columbiaspectator.com/news/2020/02/10/nypd-officer-timothy-malin-appointed-columbia-director-of-public-safety/\">formerly served</a> in the NYPD for 24 and 20 years, respectively, leading to concerns about Public Safety’s affiliation with what MAD calls a “deeply racist institution.”"
+      },
+      {
+        "type": "text",
+        "value": "“A lot of upper-level Columbia admin came from the NYPD. The NYPD [administration] under [former Commissioner] Ray Kelly ... was super punitive, using tons of stop-and-frisk,” said a MAD representative. “[It] was a really terrible time for Black and brown New Yorkers.”"
+      },
+      {
+        "type": "text",
+        "value": "MAD also expressed concern over the uniforms of Public Safety officers. Despite their status as unarmed private citizens, Public Safety’s navy uniforms and vehicles borrow from NYPD norms and evoke the same authority––an authority that according to MAD has all too often entailed racial profiling and unnecessary escalation."
+      },
+      {
+        "type": "text",
+        "value": "<i>[Related: </i><a href=\"https://www.columbiaspectator.com/news/2020/10/05/broken-windows-policing-and-gentrification-not-only-harmed-the-black-community-but-also-strengthened-columbias-reputation/\"><i>Broken windows policing and gentrification not only harmed the Black community, but also strengthened Columbia’s reputation]</i></a><i> </i>"
+      },
+      {
+        "type": "text",
+        "value": "In addition to protecting Black students, women and members of the LGBTQ+ community would also stand to benefit from the defunding of Public Safety in MAD’s demands."
+      },
+      {
+        "type": "text",
+        "value": "“A huge problem that faces Columbia students is sexual assault … and most of those instances happen … when John Jay Health and SVR don’t have in-person components,” a MAD representative said."
+      },
+      {
+        "type": "text",
+        "value": "According to MAD’s <a href=\"https://docs.google.com/document/d/1yLZN0AyGZlvpnNxzbc9osaWMMeI7WjxGJo0Ujc1x98I/edit\">Demand Letter</a>, the defunding of Public Safety would allow for funds to be reallocated toward, among other things, a social service that would help address the disproportionate sexual violence faced by women, queer, and trans people of color. Additionally, newly-freed funds could be redirected toward establishing an in-person health service that’s available for students 24/7."
+      },
+      {
+        "type": "text",
+        "value": "YDSA, among the many groups that cosigned MAD’s letter of demands, echoes MAD’s complaints of campus security bias against minorities and its ineffectiveness in addressing sexual crimes. Emmaline Bennett, TC ’21, co-chair of YDSA, also pointed to Public Safety’s deep affiliation with the NYPD and what she describes as a “history of racist policing practices”."
+      },
+      {
+        "type": "text",
+        "value": "The concerns voiced by MAD and YDSA largely reflect the national conversation about defunding the police that has gained greater prominence since this summer."
+      },
+      {
+        "type": "text",
+        "value": "Jessica Henry, associate professor in the department of justice studies at Montclair State University and a former public defender, argues that defunding the police can benefit the public in many ways. She argues that in several communities there’s a stark correlation between high levels of policing and inadequate social services."
+      },
+      {
+        "type": "text",
+        "value": "“Many urban areas that are overpoliced also suffer from a lack of mental health resources and drug rehabilitation programs and quality schools and employment training programs; all of which might really help keep communities safer and free up resources elsewhere,” Henry said."
+      },
+      {
+        "type": "text",
+        "value": "Henry further argues that defunding the police would potentially satisfy both those seeking greater police protection and those advocating for police reform."
+      },
+      {
+        "type": "text",
+        "value": "“Solving homicides takes a tremendous amount of resources. You need detectives, and you need forensics, and you need investigators, and a lot of it is talking to witnesses. It's incredibly intensive ... and police, because they've been tasked to do so many other things within the community, they just don't have that level of resource to allocate to solving homicides.”"
+      },
+      {
+        "type": "text",
+        "value": "According to Henry, by restricting police to the investigation of criminal activity, much of a police department’s budget can be reallocated toward social service investments."
+      },
+      {
+        "type": "text",
+        "value": "“What would happen if we took responding to mental health crisis calls off the table for the police and allocated funding to social service agencies that could better respond to those types of situations? Wouldn't that perhaps result in an increase in investment in things like homicide [investigation] funding and then wouldn't that perhaps resolve more crime?” Henry observed."
+      },
+      {
+        "type": "text",
+        "value": "In response to student pressure and increased scrutiny of campus policing, Barnard has made changes to its Public Safety organization."
+      },
+      {
+        "type": "text",
+        "value": "Barnard <a href=\"https://www.columbiaspectator.com/news/2020/12/03/barnard-cancels-search-for-head-of-public-safety-announces-new-community-safety-team/\">recently restructured Barnard Public Safety</a> into Community Accountability, Response, and Emergency Services. According to Barnard, CARES will allow for more specialized intervention on matters of physical and mental health and the establishment of an Office of Nondiscrimination and Title IX."
+      },
+      {
+        "type": "text",
+        "value": "Columbia Public Safety’s changes have been more directed toward increasing campus security and less toward meeting student demands for reform. In the year since Majors’ death, Columbia Public Safety has made a number of long-term adjustments, including improving the evening shuttle service in cooperation with rideshare company Via, creating a new feature on the Lion Safe app called “Friend Walk,” and establishing 24/7 staffing at the guard booths on 116th Street and 122nd Street just outside Morningside Park."
+      },
+      {
+        "type": "text",
+        "value": "Moreover, according to a report released in December by the University, “Columbia’s commitment to antiracism, and to addressing anti-Black racism in particular, is being carried out at all levels of the University.” The report detailed various initiatives being undertaken by the University to “ensure that [it] can have truly inclusive safety for all who are on Columbia’s campuses.”"
+      },
+      {
+        "type": "text",
+        "value": "While a MAD spokesperson was encouraged by Barnard’s changes, they were not thoroughly convinced that the action was sufficient. Although they acknowledge that the newly unveiled CARES uses “progressive language” in its name, the representative says it’s simply too early to tell if the move is merely “performative” or worth commending."
+      },
+      {
+        "type": "text",
+        "value": "Bennett, while hopeful that the Barnard reforms mark the beginning of a positive trend, does not feel that Columbia has been as receptive to student demands, citing its unproductive meeting with MAD last semester as being “filled with platitudes.”"
+      },
+      {
+        "type": "text",
+        "value": "Although Columbia University has recently addressed some of the concerns raised by YDSA and MAD, such as divesting from fossil fuels and increased financial aid, it remains to be seen how much of these reforms are actually driven by student activism and how open Columbia truly is to transforming the mission of campus security."
+      },
+      {
+        "type": "text",
+        "value": "<i>Staff writer Drew Letellier can be contacted at </i><i>andrew.letellier@columbiaspectator.com</i><i>. Follow Spectator on Twitter </i><a href=\"https://twitter.com/ColumbiaSpec\"><i>@ColumbiaSpec</i></a><i>.</i>"
+      },
+      {
+        "type": "text",
+        "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+      }
+    ]
   }
 }
